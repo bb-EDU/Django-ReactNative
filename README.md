@@ -19,9 +19,10 @@ A mobile app that suggests topics for conversation
 ## 🏗️ Installation
 1. Clone the repo  
    ```sh
-   git clone https://github.com/yourusername/repository.git
+   https://github.com/barbarabugajak/Conversation-Starter
 2. Start the backend
       ```sh
    python3 manage.py runserver
 4. Start the frontend
-   
+     ```sh
+   npm start
